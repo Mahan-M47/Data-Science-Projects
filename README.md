@@ -14,3 +14,6 @@ The following datasets were used:
 
 [Amazon Ratings](https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings)
 
+
+## License
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
