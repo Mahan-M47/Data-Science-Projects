@@ -14,4 +14,3 @@ The following datasets were used:
 
 [Amazon Ratings](https://www.kaggle.com/datasets/skillsmuggler/amazon-ratings)
 
-[BigBasket Products](https://www.kaggle.com/datasets/surajjha101/bigbasket-entire-product-list-28k-datapoints)
